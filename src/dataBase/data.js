@@ -9,7 +9,7 @@ const database_version = "1.0"; //Versão do banco de dados
 const database_displayname = "CRUD CadastroImoveis"; //Nome de exibição do banco de dados
 const database_size = 200000; //tamanho do banco de dados
 
-export default class Banco 
+export default class Data 
 {
     conectar() {
         let db;
